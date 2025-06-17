@@ -4,6 +4,8 @@
 
 imi Inc.では、アートとサイエンス、テクノロジーを領域として、アートワークの制作、文化活動の持続的維持創出のための新しい社会システムの企画研究開発、芸術活動支援（現代アーティストや若手アーティストのマネジメント及び事業拡大サポート他）、産官学連携のカンファレンスやイベント企画、まちづくり企画、アートプロジェクト及び展覧会の企画ディレクション、コンセプター、キュレーション、運営、コーディネート、それらに関わる発信活動などを幅広く行う。
 
+- https://youtu.be/YyoQSc4iDPk
+
 <!--
 **SHiNYA-MORi/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
 
