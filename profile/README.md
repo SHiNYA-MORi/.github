@@ -22,10 +22,23 @@ imi Inc.では、アートとサイエンス、テクノロジーを領域とし
 
 ## Social
 - https://x.com/MorleySheen
-- 
+- https://farcaster.xyz/shinya-mori
+- https://www.instagram.com/morley_sheen/
 
-## resource
+## Blog
+- https://research.fracton.ventures/reports/positive-sum-design-with-crypto/
+- https://research.fracton.ventures/reports/a-retrospective-quantitative-review-of-crypto-grants-programs/
+- https://research.fracton.ventures/reports/instrumentalized-plurality-dialectic-of-enlightenment-fixes-plurality/
+
+## Blog（日本語）
+- https://paragraph.com/@morleysheen/what-is-qf
+- https://paragraph.com/@morleysheen/funding-the-commons-tokyo
+- https://paragraph.com/@morleysheen/plurality-ethereum
+
+## Video
 - https://youtu.be/YyoQSc4iDPk
+- https://youtu.be/td3FsdAjypU
+- https://youtu.be/FWCazUyNgOw
 
 <!--
 **SHiNYA-MORi/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
