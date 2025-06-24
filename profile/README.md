@@ -1,4 +1,5 @@
-Shinya Mori / Co-founder of imi
+## Profile
+Shinya Mori / Co-founder of imi, Co-founder of Beacon Labs.
 
 ## Bio
 Graduated from the Department of Physics, Faculty of Science and Technology, Tokyo University of Science. While enrolled in the Graduate School of Science and Technology at the same university, majoring in Physics, he worked as an editor and producer at the Web3 media outlet "CoinPost." He participated in the launch of the video media platform "CONNECTV" (now WebX Studio) in collaboration with Gentosha Inc., serving as the founding editor-in-chief and contributing to the growth and management of the channel.
