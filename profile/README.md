@@ -31,6 +31,24 @@ imi Inc.では、アートとサイエンス、テクノロジーを領域とし
 - https://paragraph.com/@morleysheen/what-is-qf
 - https://paragraph.com/@morleysheen/funding-the-commons-tokyo
 - https://paragraph.com/@morleysheen/plurality-ethereum
+- https://mirror.xyz/fracton-research.eth/TOPOwoG32a3rHjR-K9g2feJ1U-F7krH5uQfNiP7Zebg
+- https://mirror.xyz/fracton-research.eth/-sj-O9dg9RULUpX3C8xOgwvC_ULUA_DcPCpwEdA2JMY
+- https://mirror.xyz/fracton-research.eth/UHzldt9jD-lC7k1Lrv58UCG0iqKt-76eqNsfWOZJniU
+- https://mirror.xyz/fracton-research.eth/lgQzYgivmelIdzobd28U7xOXFcrfXRWfSy8UTLaki-o
+- https://mirror.xyz/fracton-research.eth/KpULWne5fZHA6wgnZWzYanoC2Tv04a4foSML3zfBvUw
+- https://mirror.xyz/fracton-research.eth/ww-IeRZ8KJvbXr9_p_IkZ1JwDczTRn-5uHVpT7fH9C8
+- https://mirror.xyz/fracton-research.eth/1RL4PZHu6QXUk3J5I0B-4Ilb29bfZICHk-1eKt7LYdQ
+- https://mirror.xyz/fracton-research.eth/pgxEZ1AG0LSM3P7or3TmfR7bR92UGiWKUBn1lTiP6-k
+- https://mirror.xyz/fracton-research.eth/LK4dqmgKqAEuyfUBiDFa9XnTaxnwbdTATseRdhWeUnU
+- https://mirror.xyz/fracton-research.eth/rxUxPBvABAuDEX-X_ZUE4AwDxHFshjGov_odUA66DzQ
+- https://mirror.xyz/fracton-research.eth/tdP78CRVzIG5HBl6ZVXpFDjRDeexOp5bdxH1MxM3Xa0
+- https://mirror.xyz/fracton-research.eth/kUJ-9obzo6fkY1jVaRD4s2IyUj9w18YlrCxwufO9cK0
+- https://mirror.xyz/fracton-research.eth/yF6fzp6Y6Qq8dYLZ60ZzXS5EmcP0genQrA8REV25_Qs
+- https://mirror.xyz/fracton-research.eth/STiQ-pySj7uPH6kD1VxgUucB5bjFLTOl7Wn5HJsK8H0
+- https://mirror.xyz/fracton-research.eth/Da4-BW_gGgpQwzfQBdO5V-KJjZWHT31y0c3C9TxHC14
+- https://mirror.xyz/fracton-research.eth/KPQkwdx8RyQ0sFkWWF4Me5cBhkJa42dWyRHURYtV25o
+- https://mirror.xyz/fracton-research.eth/lKPykF7e6UZzKIUjWcQdZ89t_KpxLaJU6buhR34Sxpk
+- https://mirror.xyz/fracton-research.eth/_HTDmPnphXXVdHVsKPJghVoVdsSVR72cHolcT9cbINE
 
 ## Video
 - https://youtu.be/YyoQSc4iDPk
