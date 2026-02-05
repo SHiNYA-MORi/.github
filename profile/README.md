@@ -1,5 +1,39 @@
-## Profile
-Shinya Mori / Co-founder of imi, Co-founder of Beacon Labs.
+<statement>
+
+https://shinyamori.com/
+
+## Name
+Shinya Mori
+
+## Title
+- Artist / アーティスト
+- Co-founder of imi / imi共同代表
+- Co-founder of Beacon Labs / Beacon Labs共同創業者
+
+## Bio
+
+## Short Bio
+
+無限に広がり、重なり合いながら存在し続ける世界の在り方をコンセプトに表現活動を行うアーティスト。様々な価値観が反映された社会を目指して、社会的インパクト評価のためのオープンソースソフトウェアの開発を行う。
+
+## Organization
+### imi
+imi operates across the fields of art, science, and technology, engaging in a wide range of activities including: the creation of artworks; research and development of new social systems to sustainably support cultural activities; support for artistic endeavors such as management and business development for contemporary and emerging artists; planning of conferences and events involving industry, government, and academia; community development initiatives; planning, direction, conceptualization, curation, and coordination of art projects and exhibitions; as well as related outreach and communication activities.
+
+アートとサイエンス、テクノロジーを領域として、アートワークの制作、文化活動の持続的維持創出のための新しい社会システムの企画研究開発、芸術活動支援（現代アーティストや若手アーティストのマネジメント及び事業拡大サポート他）、産官学連携のカンファレンスやイベント企画、まちづくり企画、アートプロジェクト及び展覧会の企画ディレクション、コンセプター、キュレーション、運営、コーディネート、それらに関わる発信活動などを幅広く行う。
+
+https://imi.studio/
+
+### Beacon Labs
+Beacon Labs is an R&D institution for a positive sum world through exploring inclusive coordination design. We are building protocols for public goods funding that respects diverse value systems, with fairness and persuasion. This will enable all public goods to grow sustainably in alignment with their own visions and foster the long-term thriving of digital public goods.
+
+Beacon Labsは、インクルーシブなコーディネーションデザインの探求を通じて、ポジティブサムな世界の実現を目指す研究開発機関。多様な価値観を尊重できるような世界を目指して、より公平で納得感のある資金提供のためのプロトコルを構築する。あらゆる公共財が各自のビジョンに沿って持続的に成長でき、デジタル公共財の持続的な繁栄を実現する。
+
+https://beaconlabs.io/
+
+## Social
+- https://x.com/MorleySheen
+- https://farcaster.xyz/shinya-mori
 
 <!--
 ## Bio
