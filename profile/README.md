@@ -1,9 +1,6 @@
-<statement>
+## Shinya Mori
 
 https://shinyamori.com/
-
-## Name
-Shinya Mori
 
 ## Title
 - Artist / アーティスト
