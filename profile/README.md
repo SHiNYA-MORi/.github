@@ -13,7 +13,6 @@ https://shinyamori.xyz
 -->
 
 ## Bio (Short Ver.)
-
 He is an artist whose work explores the concept of worlds that expand infinitely, overlap, and continue to exist simultaneously. Through social impact evaluation, he builds the open-source software MUSE to promote evidence-based practice, aiming to help build a society that reflects diverse values.
 
 無限に広がり、重なり合いながら存在し続ける世界の在り方をコンセプトに表現を行うアーティスト。社会的インパクト評価を通じて様々な価値観が反映された社会を目指して、エビデンス活用を促進するためのオープンソースソフトウェアMUSEの開発を行う。
