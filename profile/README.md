@@ -12,9 +12,11 @@ https://shinyamori.xyz
 2024年、imiを共同創業。アーティスト活動を始める。主な作品、、、。
 -->
 
-## Short Bio
+## Bio (Short Ver.)
 
-無限に広がり、重なり合いながら存在し続ける世界の在り方をコンセプトに表現を行うアーティスト。様々な価値観が反映された社会を目指して、社会的インパクト評価のためのオープンソースソフトウェアの開発を行う。
+He is an artist whose work explores the concept of worlds that expand infinitely, overlap, and continue to exist simultaneously. Through social impact evaluation, he builds the open-source software MUSE to promote evidence-based practice, aiming to help build a society that reflects diverse values.
+
+無限に広がり、重なり合いながら存在し続ける世界の在り方をコンセプトに表現を行うアーティスト。社会的インパクト評価を通じて様々な価値観が反映された社会を目指して、エビデンス活用を促進するためのオープンソースソフトウェアMUSEの開発を行う。
 
 ## Organization
 ### imi
