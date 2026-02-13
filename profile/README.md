@@ -7,9 +7,8 @@ https://shinyamori.xyz
 ## Bio
 無限に広がり、重なり合いながら存在し続ける世界の在り方をコンセプトに表現を行うアーティスト。社会的インパクト評価を通じて様々な価値観が反映された社会を目指して、エビデンス活用を促進するためのオープンソースソフトウェアMUSEの開発を行う。
 
-2022年より、Frcaton Venturesにて、Ethereumエコシステムにおいて公共財への資金提供メカニズムやDAOにおける集団的意思決定、分散型ガバナンスに関する研究開発を行う。2023年に、Fracton Research(現Beacon Labs)を共同創業。Devcon SEA(2024)、Funding the Commons Berlin/Taipei/Tokyo/Bangkok/Buenos Aires(2023–2025)、Ethcon Korea(2023年)にて、動的なエビデンス活用を実現するためのOSSの提案、運営形態の異なる助成金プログラムにおける定量比較分析、ポジティブサムなアーキテクチャ設計に関して講演を行う。
-
-2024年、imiを共同創業。アーティスト活動を始める。主な作品、、、。
+2022年より、Frcaton Venturesにて、Ethereumエコシステムにおいて公共財への資金提供メカニズムやDAOにおける集団的意思決定、分散型ガバナンスに関する研究開発を行う。2023年に、Fracton Research(現Beacon Labs)を共同創業。Devcon SEA(2024)、Funding the Commons Berlin/Taipei/Tokyo/Bangkok/Buenos Aires(2023–2025)、Ethcon Korea(2023年)にて、動的なエビデンス活用を実現するためのOSSの提案、運営形態の異なる助成金プログラムにおける定量比較分析、ポジティブサムなアーキテクチャ設計に関して講演を行う。2024年、imiを共同創業。アーティスト活動を始める。
+主な作品「Epistemology in AI(2024)」「Flowers(2024)」「Lights(2025)」。
 -->
 
 ## Bio (Short Ver.)
