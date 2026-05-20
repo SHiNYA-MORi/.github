@@ -1,6 +1,7 @@
 # Shinya Mori
 Artist. Co-founder of imi and Beacon Labs.
 
+<!--
 https://shinyamori.xyz
 
 ## Bio
@@ -35,6 +36,8 @@ https://beaconlabs.io/
 ## Social
 - https://x.com/MorleySheen
 - https://farcaster.xyz/shinya-mori
+
+-->
 
 <!--
 ## Bio
