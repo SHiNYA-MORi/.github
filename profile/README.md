@@ -1,5 +1,5 @@
 # Shinya Mori
-Artist. Co-founder of imi and Beacon Labs.
+Artist. Co-founder of imi.
 
 <!--
 https://shinyamori.xyz
